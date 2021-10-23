@@ -1,0 +1,15 @@
+#number{
+    padding: 10px;
+}
+/* .container{
+    display: flex;
+
+    justify-content: center;
+} */
+#output{
+    padding: 50px 40px;
+    font-size: 20px;
+}
+#see{
+    display: none;
+}
